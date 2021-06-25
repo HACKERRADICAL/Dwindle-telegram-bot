@@ -1,14 +1,14 @@
 {
-  "name": "Dwindle-telegram-bot",
+  "name": "PSYCHO URL SHORTNER",
   "description": "A telegram bot that can handle urls in different ways.",
   "keywords": [
     "telegram",
     "python",
     "bots"
   ],
-  "website": "https://github.com/RabbitFored/Dwindle-telegram-bot/",
-  "repository": "https://github.com/RabbitFored/Dwindle-telegram-bot/",
-  "success_url": "https://t.me/dwindle_bot",
+  "website": "https://github.com/HACKERRADICAL/Dwindle-telegram-bot/",
+  "repository": "https://github.com/HACKERRADICAL/Dwindle-telegram-bot/",
+  "success_url": "https://t.me/Psycho_urlshortner_bot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
